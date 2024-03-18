@@ -1,0 +1,7 @@
+h1{
+    background-color: pink;
+    
+    transition-property: inherit;
+    transform-origin: 20%;
+    transition-duration: 100ms;
+    padding: auto;}
